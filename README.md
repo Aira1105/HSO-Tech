@@ -1,3 +1,3 @@
-## [ReVita ](https://github.com/MERLev/reVita#usage)[/ RemaPSV ](https://wololo.net/talk/viewtopic.php?t=49752)[/ RemaPSV2](https://github.com/MERLev/remaPSV2#installation)
-- Config menu - **Start + ⧠**
+## [OP360 Courses ](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=0#gid=0)
+- Added Information - **Information Security Refresher 2025**
 - Enable/Disable - **Start + △** *(reVita)*
