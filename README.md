@@ -12,3 +12,6 @@
 - [Mandatoy 8-hour OSH Seminar Zoho Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
 - **HSI Tool**
 - [HSO LINK](https://henryscheinone.lightning.force.com/lightning/page/home)
+- **Training**
+- [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
+- 
