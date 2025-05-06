@@ -10,8 +10,10 @@
 - [Discipline Management Assessment Guide](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) - *Completed*
 - **Mandatory 8-hour OSH Seminar**
 - [Mandatoy 8-hour OSH Seminar Zoho Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
-- **Salesforce HS1 CRM**
+
+## **HSO Links and Courses**
+- **Salesforce HS1 Support Console CRM**
 - [LINK](https://henryscheinone.lightning.force.com/lightning/page/home)
-- **Training**
+- **Training - SkillJar**
 - [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 
