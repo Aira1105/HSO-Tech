@@ -17,5 +17,5 @@
 - **Training - Skilljar - Technical Support : New Hire Onboarding**
 - [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 ## **HSO Training Guides**
-- ** HIPAA - Protecting Patient Privacy Guides**
+- **HIPAA - Protecting Patient Privacy Guides**
 - [Link](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)
