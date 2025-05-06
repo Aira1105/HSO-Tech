@@ -13,7 +13,7 @@
 
 ## **HSO Links and Courses**
 - **Salesforce HS1 Support Console CRM**
-- [LINK](https://henryscheinone.lightning.force.com/lightning/page/home)
-- **Training - SkillJar**
+- [LiNK](https://henryscheinone.lightning.force.com/lightning/page/home)
+- **Training - SkillJar - Technical Support : New Hire Onboarding**
 - [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 
