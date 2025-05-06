@@ -14,4 +14,5 @@
 - [HSO LINK](https://henryscheinone.lightning.force.com/lightning/page/home)
 - **Training**
 - [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
+- [Link](https://hso.skilljar.com/accounts/profile/password/reset/key/13nmh-cpdm39-dcd8adfb3df264f2993612a2f40ce3a6/)
 - 
