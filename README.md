@@ -11,9 +11,13 @@
 - **Mandatory 8-hour OSH Seminar**
 - [Mandatoy 8-hour OSH Seminar Zoho Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
 
-## **HSO Training Links and Courses**
+** **HSO Tools**
 - **Salesforce HS1 Support Console CRM**
 - [Link](https://henryscheinone.lightning.force.com/lightning/page/home)
+- **Bomgar Installtion link**
+- [Link](https://remote.dentrix.com/login/downloads/console)
+
+- ## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding**
 - [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 ## **HSO Training Guides**
