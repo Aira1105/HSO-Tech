@@ -13,7 +13,7 @@
 ## **HSO Tools**
 - **Salesforce HS1 Support Console CRM**
 - [Link](https://henryscheinone.lightning.force.com/lightning/page/home)
-- **Bomgar Installtion link**
+- **Bomgar Installation link**
 - [Link](https://remote.dentrix.com/login/downloads/console)
 - ## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding**
