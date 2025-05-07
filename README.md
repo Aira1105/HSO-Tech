@@ -11,7 +11,7 @@
 - **Mandatory 8-hour OSH Seminar**
 - [Mandatoy 8-hour OSH Seminar Zoho Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
 
-** **HSO Tools**
+## **HSO Tools**
 - **Salesforce HS1 Support Console CRM**
 - [Link](https://henryscheinone.lightning.force.com/lightning/page/home)
 - **Bomgar Installtion link**
