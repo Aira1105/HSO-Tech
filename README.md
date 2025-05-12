@@ -11,7 +11,7 @@
 - **Mandatory 8-hour OSH Seminar**
 - [Mandatoy 8-hour OSH Seminar Zoho Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
 ## **OP360 Links**
-- **Allsec Website** [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - *Make sure to check your log in* **ALWAYS**
+- **Allsec Website** [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - *Make sure to check your log in - Log out* **ALWAYS**
 - **OP360 Zoho People** [Link](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)
 - **OP360 Google Suites** [Link](https://mail.google.com/mail/u/0/?pli=1#inbox)
 ## **HSO Tools**
