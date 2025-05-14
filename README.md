@@ -16,6 +16,7 @@
 - **OP360 Google Suites** [Link](https://mail.google.com/mail/u/0/?pli=1#inbox)
 ## **HSO Tools**
 - **Salesforce HS1 Support Console CRM** -[Link](https://henryscheinone.lightning.force.com/lightning/page/home)
+- **HSO Incident Report Playbook** - [Link](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 - **Quicksnapshot 3 Installation Link** - [Link](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
 - **CXone Salesforce Agent Workflow** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent%2FCXone%20Salesforce%20Agent%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent)
