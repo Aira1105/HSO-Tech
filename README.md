@@ -10,7 +10,6 @@
 - [Discipline Management Assessment Guide](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) - *Completed*
 - **Mandatory 8-hour OSH Seminar**
 - [Mandatoy 8-hour OSH Seminar Zoho Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
-- **Mandatory 8-hour OSH Seminar Guide**
 - [Mandatory 8-hour OSH Seminar Guide](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934)
 ## **OP360 Links**
 - **Allsec Website** [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - *Make sure to check your log in - Log out* **ALWAYS**
