@@ -28,7 +28,7 @@
 - **ADV Workspace Procedures** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions%2FAVD%20Workspace%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions)
 - **Dentrix Installation** [Link](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >10 Minutes*
 - **Dentrix Installation Back-up** [Link](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >10 Minutes*
-- ## **HSO Training Links and Courses**
+## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - **Training - Skilljar - Dentrix Tier 1: Support Training** [Link](https://hso.skilljar.com/dentrix-tier-1-support-training)
 ## **HSO Training Guides**
