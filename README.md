@@ -18,7 +18,6 @@
 - **OP360 Google Suites** [Link](https://mail.google.com/mail/u/0/?pli=1#inbox)
 ## **HSO Tools**
 - **Salesforce HS1 Support Console CRM** -[Link](https://henryscheinone.lightning.force.com/lightning/page/home)
-- **HSO Incident Report Playbook** - [Link](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 - **Quicksnapshot 3 Installation Link** - [Link](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
 - **CXone Salesforce Agent Workflow** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent%2FCXone%20Salesforce%20Agent%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent)
@@ -28,6 +27,7 @@
 - **ADV Workspace Procedures** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions%2FAVD%20Workspace%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions)
 - **Dentrix Installation** [Link](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >10 Minutes*
 - **Dentrix Installation Back-up** [Link](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >10 Minutes*
+- - **HSO Incident Report Guide** - [Link](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 ## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - **Training - Skilljar - Dentrix Tier 1: Support Training** [Link](https://hso.skilljar.com/dentrix-tier-1-support-training)
