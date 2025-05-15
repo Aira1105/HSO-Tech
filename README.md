@@ -16,6 +16,9 @@
 - **Allsec Website** [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - ***Make sure to check your Log-ins to prevent disputes and corrections***
 - **OP360 Zoho People** [Link](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)
 - **OP360 Google Suites** [Link](https://mail.google.com/mail/u/0/?pli=1#inbox)
+- **OP360 ResetPassword** [Link](https://resetpw.officepartners360.com/authorization.do)
+- **OP360 IT Incident Ticket Creation** [Link](https://servicedesk.officepartners360.com/support/tickets/new)
+- **OP360 Service Request Ticket Creation** [Link](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
 ## **HSO Tools**
 - **Salesforce HS1 Support Console CRM** -[Link](https://henryscheinone.lightning.force.com/lightning/page/home)
 - **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
