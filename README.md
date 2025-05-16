@@ -2,7 +2,6 @@
 *Note: Use Ctrl + Click on links to open it as a new tab.*
 - **Mandatory Courses for New Hires**
 - [Mandatory Courses for New Hires Zoho Link](https://people.op360.com/ops360/training#lms-view/course/619096000106698857/module)
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 - [Mandatory Courses for New Hires Assessment Guide](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=268678928#gid=268678928) - *Completed*
 - **Information Security Refresher 2025**
 - [Information Security 2025 Zoho Link](https://people.op360.com/ops360/training#lms-view/course/619096000248822639/overview)
