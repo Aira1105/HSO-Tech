@@ -26,7 +26,7 @@
 - **Dentrix Ascend Sandbox/Training** - [Link](https://beta.gryphondds.com/pm#/dashboard)
 - **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 ## **Support Tools**
-- **CXone Interaction Hub** - [Link](https://na1.nice-incontact.com/)
+- **CXone Interaction Hub** - [Link](cxone.niceincontact.com)
 ## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - **Training - Skilljar - Dentrix Tier 1: Support Training** [Link](https://hso.skilljar.com/dentrix-tier-1-support-training)
