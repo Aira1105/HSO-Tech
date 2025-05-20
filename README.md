@@ -35,8 +35,8 @@
 
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
-| Local Machine | I5 11th/12th                     | 16GB Ram         | 256GB   |
-| VMware/AVD    | Intel Xeon                       | 8GB Ram          | 128GB   |
+| Local Machine | I5 11th/12th 6C/12T              | 16GB Ram         | 256GB   |
+| VMware/AVD    | Intel Xeon Platinum 8573C 2C/4T  | 8GB Ram          | 128GB   |
 ###### *HSO Device Information*
 
 | Device      | Application   | Website | Resource Allocation | Restriction Status |
