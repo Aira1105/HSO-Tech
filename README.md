@@ -38,7 +38,12 @@
 | Local Machine | I5 11th/12th                     | 16GB Ram         | 256GB   |
 | VMware/AVD    | Intel Xeon                       | 8GB Ram          | 128GB   |
 ###### *HSO Device Information*
- 
+
+| Device      | Application   | Website | Resource Allocation | Restriction Status |
+|-------------|-------------- |---------|---------------------|--------------------|
+|Local Machine| Google Chrome |         |                     |                    |
+
+
 
 ## **OP360 Courses** 
 - **Mandatory Courses for New Hires**
