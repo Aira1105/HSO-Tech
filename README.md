@@ -7,23 +7,24 @@
 - **OP360 ResetPassword** [Link](https://resetpw.officepartners360.com/authorization.do)
 - **OP360 IT Incident Ticket Creation** [Link](https://servicedesk.officepartners360.com/support/tickets/new)
 - **OP360 Service Request Ticket Creation** [Link](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
-## **HSO Tools**
+## **HSO Tools and Documentations**
 - **Salesforce HS1 Support Console CRM** -[Link](https://henryscheinone.lightning.force.com/lightning/page/home)
-- **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
-- **Quicksnapshot 3 Installation Link** - [Link](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
 - **CXone Salesforce Agent Workflow** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent%2FCXone%20Salesforce%20Agent%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent)
 - **HSO Support Technician Process** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians%2FSupport%20Technician%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians)
 - **Salesforce Case Dispositioning** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians%2FSalesforce%20Case%20Dispositioning%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians)
 - **CXone My Zone for Support Agents** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FCXone%20My%20Zone%20for%20Support%20Agents%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone)
 - **ADV Workspace Procedures** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions%2FAVD%20Workspace%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions)
-- **Dentrix Installation** [Link](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >10 Minutes*
-- **Dentrix Installation Back-up** [Link](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >10 Minutes*
 - **HSO Incident Report Guide** - [Link](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - **HSO Incident Report Tech Helpdesk Tickets** - [Link](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - *All Tickets **Should** be Reported to your Team Lead*
-
+## **Dentrix Core Tools**
+- **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
+- **Quicksnapshot 3 Installation Link** - [Link](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
+- **Dentrix Installation** [Link](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >20 Minutes*
+- **Dentrix Installation Back-up** [Link](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >20 Minutes*
 ## **Dentrix Ascend Tools**
 - **Dentrix Ascend Live** - [Link](https://live.dentrixascend.com/login)
 - **Dentrix Ascend Sandbox/Training** - [Link](https://beta.gryphondds.com/pm#/dashboard)
+- **Bomgar Installation link** - [Link](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 ## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - **Training - Skilljar - Dentrix Tier 1: Support Training** [Link](https://hso.skilljar.com/dentrix-tier-1-support-training)
@@ -41,7 +42,7 @@
 
 | Device      | Application   | Website | Resource Allocation | Restriction Status |
 |-------------|-------------- |---------|---------------------|--------------------|
-|Local Machine| Google Chrome |         |                     |                    |
+|Local Machine| Google Chrome | Copli         |                     |                    |
 
 
 
