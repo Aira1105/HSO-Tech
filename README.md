@@ -46,8 +46,9 @@
 |-------------|-------------- |---------|---------------------|--------------------|
 |Local Machine| Google Chrome | Salesforce HS1 Support Console CRM        | **High**                    |  *Allowed*                  |
 |Local Machine| Google Chrome | CXone Application                         | **High**                    |  *Allowed*                  |
-|AVD/VRmachine| Dentrix Core  |                                           | **HIgh**                    |                             |
-
+|AVD/VRmachine| Dentrix Core  |                                           | **High**                    |                             |
+|AVD/VRmachine| Bomgar Remote |                                           | **High**                    |                             |
+|Local Machine| Bomgar Remote |                                           | **High**                    |  *Allowed*                  |
 
 ## **OP360 Courses** 
 - **Mandatory Courses for New Hires**
