@@ -43,7 +43,7 @@
 | Device      | Application   | Website | Resource Allocation | Restriction Status |
 |-------------|-------------- |---------|---------------------|--------------------|
 |Local Machine| Google Chrome | Salesforce HS1 Support Console CRM        | **High**                    |  *Allowed*                  |
-
+|             |               | CXone Application                         | **High**                    |  *Allowed*                  |
 
 
 ## **OP360 Courses** 
