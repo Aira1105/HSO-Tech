@@ -29,10 +29,10 @@
 
 ## **OP360 Workstations**
 
-| Device        | Allocation    | Memory           | Storage |
-|---------------|---------------|------------------|---------|
-| Local Machine | I5 11th/12th  | 16GB Ram         | 256GB   |
-| VMware/AVD    | Intel Xeon    | 8GB Ram          | 128GB   |
+| Device        | Processor/Cores/Thread           | Memory           | Storage |
+|---------------|----------------------------------|------------------|---------|
+| Local Machine | I5 11th/12th                     | 16GB Ram         | 256GB   |
+| VMware/AVD    | Intel Xeon                       | 8GB Ram          | 128GB   |
 ###### *HSO Device Information*
  
 
@@ -51,11 +51,3 @@
 - [Mandatory 8-hour OSH Seminar Guide](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) - *Completed*
 
 
-| Device        | Allocation    | Memory           | Storage |
-|---------------|---------------|------------------|---------|
-| Local Machine | I5 11th/12th  | 16GB Ram         | 256GB   |
-| VMware/AVD    | Intel Xeon    | 8GB Ram          | 128GB   |
-
-
-| Applications  | Tools         | Resource Usage   |               |
-| Google        |               |                  |               | 
