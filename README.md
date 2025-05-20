@@ -41,8 +41,8 @@
 - [Mandatory 8-hour OSH Seminar Guide](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) - *Completed*
 
 
-| Device  | Allocation | Ulitization  |
-|-------|-----|---------|-------|
-| Local Machine | I5 11th/12th  | 16GB Ram     | 256GB Storage |
-| Applications  | Tools  | Resource Usage   |
-|   Google  |   |   |
+| Device        | Allocation    | Ulitization      |
+|---------------|---------------|------------------|---------------|
+| Local Machine | I5 11th/12th  | 16GB Ram         | 256GB Storage |
+| Applications  | Tools         | Resource Usage   |
+|   Google      |               |                  |
