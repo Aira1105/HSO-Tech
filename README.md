@@ -42,7 +42,7 @@
 
 | Device      | Application   | Website | Resource Allocation | Restriction Status |
 |-------------|-------------- |---------|---------------------|--------------------|
-|Local Machine| Google Chrome | Salesforce HS1 Support Console CRM        | High                    |  Allowed                  |
+|Local Machine| Google Chrome | Salesforce HS1 Support Console CRM        | **High**                    |  *Allowed*                  |
 
 
 
