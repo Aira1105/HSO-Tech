@@ -22,8 +22,8 @@
 - **HSO Incident Report Tech Tickets** - [Link](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - *All Tickets **Should** be Reported to your Team Lead*
 
 ## **Dentrix Ascend Tools**
-- **Dentrix Ascend Live - [Link](https://live.dentrixascend.com/login)
-- **Dentrix Ascend Sandbox/Training - [Link](https://beta.gryphondds.com/pm#/dashboard)
+- **Dentrix Ascend Live** - [Link](https://live.dentrixascend.com/login)
+- **Dentrix Ascend Sandbox/Training** - [Link](https://beta.gryphondds.com/pm#/dashboard)
 ## **HSO Training Links and Courses**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** [Link](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - **Training - Skilljar - Dentrix Tier 1: Support Training** [Link](https://hso.skilljar.com/dentrix-tier-1-support-training)
