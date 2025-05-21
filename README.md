@@ -7,8 +7,6 @@
 | VMware/AVD    | Intel Xeon Platinum 8573C 1C/2T  | 8GB Ram          | 128GB   |
 ###### *HSO Device Information*
 
-## **Tools Mapping**
-
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
 |Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
