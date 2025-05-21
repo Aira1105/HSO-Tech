@@ -1,11 +1,11 @@
 ###### *Note: Use Ctrl + Click on links to open it as a new tab.*
 ## **$${\color{Blue}OP360 Workstations}$$**
-
+###### *HSO Device Information*
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
 | Local Machine | I5 11th/12th 6C/12T              | 16GB Ram         | 256GB   |
 | VMware/AVD    | Intel Xeon Platinum 8573C 1C/2T  | 8GB Ram          | 128GB   |
-###### *HSO Device Information*
+
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
 |Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
