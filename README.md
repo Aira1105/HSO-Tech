@@ -9,9 +9,9 @@
 
 ## **Tools Mapping**
 
-| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
-|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|
-|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
+| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link
+|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------]
+|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
 |OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
 |Microsoft Office                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
 |Github Repository                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
