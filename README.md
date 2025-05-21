@@ -44,7 +44,7 @@
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|--------------------                    |
-|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{red}Red}Low$$                |
+|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{red}Low}$$                |
 |OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | Moderate                               |
 |Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | High                                   |
 |
