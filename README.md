@@ -17,7 +17,7 @@
 |Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |                                                             |
 |Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
 |Microsoft Outlook                  | AVD/VMware| Stand-alone App                              |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
-|Microsoft Teams                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
+|Microsoft Teams                  | AVD/WMware | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
 ## **OP360 Links**
