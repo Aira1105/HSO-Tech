@@ -7,7 +7,7 @@
 - **OP360 ResetPassword** [Link](https://resetpw.officepartners360.com/authorization.do)
 - **OP360 IT Incident Ticket Creation** [Link](https://servicedesk.officepartners360.com/support/tickets/new)
 - **OP360 Service Request Ticket Creation** [Link](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
-## **HSO Tools and Documentations**
+## **HSO Tools and Docs**
 - **Salesforce HS1 Support Console CRM** -[Link](https://henryscheinone.lightning.force.com/lightning/page/home)
 - **CXone Salesforce Agent Workflow** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent%2FCXone%20Salesforce%20Agent%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FSalesforce%20Agent)
 - **HSO Support Technician Process** - [Link](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians%2FSupport%20Technician%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians)
