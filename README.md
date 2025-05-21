@@ -9,16 +9,16 @@
 
 ## **Tools Mapping**
 
-| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link
-|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------]
+| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
+|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
 |Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
-|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
-|Microsoft Office                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
-|Github Repository                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
-|OP360 Zoho People                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
-|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |
-|Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |
-|Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |
+|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |                                                             |
+|Microsoft Office                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{yellow}Moderate}$$           |                                                             |
+|Github Repository                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |                                                             |
+|OP360 Zoho People                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |                                                             |
+|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
+|Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |                                                             |
+|Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
 ## **OP360 Links**
