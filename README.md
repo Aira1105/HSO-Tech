@@ -45,7 +45,7 @@
 ## **Dentrix Ascend Tools**
 - **Dentrix Ascend Live** - [`Link`](https://live.dentrixascend.com/login)
 - **Dentrix Ascend Sandbox/Training** - [`Link`](https://beta.gryphondds.com/pm#/dashboard)
-- **Dentrix Ascend Cheatsheets - [`Link`](https://drive.google.com/file/d/1RAkCN4_uDPdICsEtWDE6iVRk8KvzRvff/view?usp=sharing)
+- **Dentrix Ascend Cheatsheets** - [`Link`](https://drive.google.com/file/d/1RAkCN4_uDPdICsEtWDE6iVRk8KvzRvff/view?usp=sharing)
 - **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 ## **HSO Support Tools**
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
