@@ -1,4 +1,24 @@
 ###### *Note: Use Ctrl + Click on links to open it as a new tab.*
+## **OP360 Workstations**
+
+| Device        | Processor/Cores/Thread           | Memory           | Storage |
+|---------------|----------------------------------|------------------|---------|
+| Local Machine | I5 11th/12th 6C/12T              | 16GB Ram         | 256GB   |
+| VMware/AVD    | Intel Xeon Platinum 8573C 2C/4T  | 8GB Ram          | 128GB   |
+###### *HSO Device Information*
+
+| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
+|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|
+|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
+|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
+|Microsoft Office                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
+|Github Repository                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
+|OP360 Zoho People                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
+|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |
+|Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |
+|Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |
+###### *Set Default Browser to Google Chrome across 2 environments*
+
 ## **OP360 Links**
 ###### *Important OfficePartners360 Links*
 - **Allsec Website** [Link](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - ***Make sure to check your Log-ins to prevent disputes and corrections***
@@ -44,10 +64,14 @@
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|
-|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{green}Low}$$                 |
+|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
 |OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
+|Microsoft Office                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
+|Github Repository                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
+|OP360 Zoho People                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
 |Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |
-|
+|Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |
+|Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |
 
 
 
