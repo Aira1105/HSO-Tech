@@ -1,5 +1,5 @@
 ###### *Note: Use Ctrl + Click on links to open it as a new tab.*
-## **$${\color{purple}OP360 Workstations}$$**
+## **$${\color{Blue}OP360 Workstations}$$**
 
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
