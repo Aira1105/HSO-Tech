@@ -3,8 +3,8 @@
 ###### *HSO Device Information*
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
-| Local Machine | I5 11th/12th 6C/12T              | 16GB Ram         | 256GB   |
-| VMware/AVD    | Intel Xeon Platinum 8573C 1C/2T  | 8GB Ram          | 128GB   |
+| Local Machine | `I5 11th/12th 6C/12T`              | 16GB Ram         | 256GB   |
+| VMware/AVD    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB Ram          | 128GB   |
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
@@ -56,16 +56,16 @@
 - **HIPAA - Protecting Patient Privacy Guides** - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)
 ## **OP360 Courses** 
 - **Mandatory Courses for New Hires**
-- Mandatory Courses for New Hires Zoho - [Link](https://people.op360.com/ops360/training#lms-view/course/619096000106698857/module)
-- Mandatory Courses for New Hires Assessment Guide - [Link](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=268678928#gid=268678928) - $${\color{green}Completed}$$
+- Mandatory Courses for New Hires Zoho - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000106698857/module)
+- Mandatory Courses for New Hires Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=268678928#gid=268678928) - $${\color{green}Completed}$$
 - **Information Security Refresher 2025**
-- Information Security 2025 Zoho - [Link](https://people.op360.com/ops360/training#lms-view/course/619096000248822639/overview)
-- Information Security Assessment Guide - [Link](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=0#gid=0) - $${\color{green}Completed}$$
+- Information Security 2025 Zoho - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000248822639/overview)
+- Information Security Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=0#gid=0) - $${\color{green}Completed}$$
 - **HR Roadshow: Discipline Management**        -     $${\color{pink}For Leadership Roles}$$
-- HR Roadshow: Discipline Managent - [Link](https://people.op360.com/ops360/training#lms-view/course/619096000107703201/overview)
-- Discipline Management Assessment Guide - [Link](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) - $${\color{green}Completed}$$
+- HR Roadshow: Discipline Managent - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000107703201/overview)
+- Discipline Management Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) - $${\color{green}Completed}$$
 - **Mandatory 8-hour OSH Seminar**
-- Mandatoy 8-hour OSH Seminar Zoho - [Link](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
-- Mandatory 8-hour OSH Seminar Guide - [Link](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) - $${\color{green}Completed}$$
+- Mandatoy 8-hour OSH Seminar Zoho - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
+- Mandatory 8-hour OSH Seminar Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) - $${\color{green}Completed}$$
 
 
