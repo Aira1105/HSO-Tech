@@ -42,13 +42,15 @@
 | VMware/AVD    | Intel Xeon Platinum 8573C 2C/4T  | 8GB Ram          | 128GB   |
 ###### *HSO Device Information*
 
-| Device      | Application   | Website | Resource Allocation | Restriction Status |
-|-------------|-------------- |---------|---------------------|--------------------|
-|Local Machine| Google Chrome | Salesforce HS1 Support Console CRM        | **High**                    |  *Allowed*                  |
-|Local Machine| Google Chrome | CXone Application                         | **High**                    |  *Allowed*                  |
-|AVD/VRmachine| Dentrix Core  |                                           | **High**                    |                             |
-|AVD/VRmachine| Bomgar Remote |                                           | **High**                    |                             |
-|Local Machine| Bomgar Remote |                                           | **High**                    |  *Allowed*                  |
+| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
+|----------------------------------|---------------|-------------------------------------------|-----------------------------|--------------------                    |
+|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{red}Red}$$Low                |
+|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | Moderate                               |
+|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | High                                   |
+|
+
+
+
 
 ## **OP360 Courses** 
 - **Mandatory Courses for New Hires**
