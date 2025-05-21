@@ -43,10 +43,10 @@
 ###### *HSO Device Information*
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
-|----------------------------------|---------------|-------------------------------------------|-----------------------------|--------------------                    |
-|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{green}Low}$$                |
-|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | Moderate                               |
-|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | High                                   |
+|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|
+|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{green}Low}$$                 |
+|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
+|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |
 |
 
 
