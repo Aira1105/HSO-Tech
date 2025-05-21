@@ -1,4 +1,4 @@
-###### $${\color{red}Note: Use Ctrl + Click on links to open it as a new tab.}$$
+###### *$${\color{red}Note: /space Use /space Ctrl /space + /space Click /space on /space links /space to /space open /space it /space as /space a /space new /sapce tab.}$$*
 ## **$${\color{Aqua}OP360 Workstations}$$**
 ###### *HSO Device Information*
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
