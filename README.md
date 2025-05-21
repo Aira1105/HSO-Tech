@@ -1,5 +1,5 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab.**
-### **$${\color{Aqua}OP360 \space  Workstations}$$**
+### **$${\color{Purple}OP360 \space  Workstations}$$**
 ###### *HSO Device Information*
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
