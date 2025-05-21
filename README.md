@@ -7,6 +7,8 @@
 | VMware/AVD    | Intel Xeon Platinum 8573C 2C/4T  | 8GB Ram          | 128GB   |
 ###### *HSO Device Information*
 
+## **Tools Mapping**
+
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|
 |Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
@@ -53,29 +55,6 @@
 - **Training - Skilljar - Dentrix Ascend New Hire VILT** [Link](https://hso.skilljar.com/dentrix-ascend-new-hire-vilt/152775)
 ## **HSO Training Guides**
 - **HIPAA - Protecting Patient Privacy Guides** - [Link](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)
-
-## **OP360 Workstations**
-
-| Device        | Processor/Cores/Thread           | Memory           | Storage |
-|---------------|----------------------------------|------------------|---------|
-| Local Machine | I5 11th/12th 6C/12T              | 16GB Ram         | 256GB   |
-| VMware/AVD    | Intel Xeon Platinum 8573C 2C/4T  | 8GB Ram          | 128GB   |
-###### *HSO Device Information*
-
-| Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    |
-|----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|
-|Allsec LILO *Important*           | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
-|OP360 Google Suites               | Local Machine | Google Chrome                             |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
-|Microsoft Office                  | Local Machine | Stand-alone App                           |  1min/2mins                 | $${\color{yellow}Moderate}$$           |
-|Github Repository                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
-|OP360 Zoho People                 | Local Machine | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |
-|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |
-|Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |
-|Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |
-
-
-
-
 ## **OP360 Courses** 
 - **Mandatory Courses for New Hires**
 - Mandatory Courses for New Hires Zoho - [Link](https://people.op360.com/ops360/training#lms-view/course/619096000106698857/module)
