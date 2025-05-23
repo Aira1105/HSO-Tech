@@ -41,8 +41,8 @@
 ### **Dentrix Core Tools**
 - **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 - **Quicksnapshot 3 Installation Link** - [`Link`](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
-- **Dentrix Installation** [`Link`](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >20 Minutes*
-- **Dentrix Installation Back-up** [`Link`](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >20 Minutes*
+- **Dentrix Installation** - [`Link`](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >20 Minutes*
+- **Dentrix Installation Back-up** - [`Link`](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >20 Minutes*
 ### **Dentrix Ascend Tools**
 - **Dentrix Ascend Live** - [`Link`](https://live.dentrixascend.com/login)
 - **Dentrix Ascend Sandbox/Training** - [`Link`](https://beta.gryphondds.com/pm#/dashboard)
@@ -52,9 +52,9 @@
 ### **HSO Support Tools**
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
 ### **HSO Training Links and Courses**
-- **Training - Skilljar - Technical Support : New Hire Onboarding** [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
-- **Training - Skilljar - Dentrix Tier 1: Support Training** [`Link`](https://hso.skilljar.com/dentrix-tier-1-support-training)
-- **Training - Skilljar - Dentrix Ascend New Hire VILT** [`Link`](https://hso.skilljar.com/dentrix-ascend-new-hire-vilt/152775)
+- **Training - Skilljar - Technical Support : New Hire Onboarding** - [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
+- **Training - Skilljar - Dentrix Tier 1: Support Training** - [`Link`](https://hso.skilljar.com/dentrix-tier-1-support-training)
+- **Training - Skilljar - Dentrix Ascend New Hire VILT** - [`Link`](https://hso.skilljar.com/dentrix-ascend-new-hire-vilt/152775)
 ### **HSO Training Guides**
 - **HIPAA - Protecting Patient Privacy Guides** - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)
 ### **OP360 Courses** 
