@@ -5,7 +5,7 @@
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
 | $${\color{cyan}Local \space Machine}$$ | `I5 11th/12th 6C/12T`              | 16GB Ram         | 256GB   |
-| VMware/AVD    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB Ram          | 128GB   |
+| $${\color{Red}AVD/VMware}$$    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB Ram          | 128GB   |
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
@@ -13,12 +13,11 @@
 |OP360 Google Suites               | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  1min/2mins                 | $${\color{orange}Moderate}$$           | [`Link`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
 |Remote Desktop                    | $${\color{cyan}Local \space Machine}$$ | Stand-alone App                           | 3mins/5mins                 | $${\color{red}High}$$                  |                                                             |           
 |Github Repository                 | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://github.com/Aira1105/HSO-Tech)                                                            |
-|OP360 Zoho People                 | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)                                                           |
 |Salesforce HS1 Support Console CRM| $${\color{Red}AVD/VMware}$$    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  | [`Link`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
 |Bomgar Remote                     | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |                                                             |
 |Dentrix-Core Software             | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
 |Microsoft Outlook                 | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
-|Microsoft Teams                   | AVD/WMware    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
+|Microsoft Teams                   | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
 ### $${\color{Darkslatecyan}OP360 \space Tools}$$
