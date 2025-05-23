@@ -59,7 +59,7 @@
 - **Training - Skilljar - Dentrix Ascend New Hire VILT** - [`Link`](https://hso.skilljar.com/dentrix-ascend-new-hire-vilt/152775)
 ### **HSO Training Guides**
 - **HIPAA - Protecting Patient Privacy Guides** - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=263501395#gid=263501395)
-### **OP360 Courses** 
+### **OP360 Courses and Guidelines** 
 - **Mandatory Courses for New Hires**
 - Mandatory Courses for New Hires Zoho - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000106698857/module)
 - Mandatory Courses for New Hires Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=268678928#gid=268678928) - $${\color{green}Completed}$$
