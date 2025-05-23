@@ -20,7 +20,6 @@
 |**Total Load Time**                   |                                |                                           |  $${\color{Green}12mins/23mins}$$                     |                                        |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
-<i class="fa-brands fa-google"></i>
 ### **OP360 Tools**
 ###### *Important OfficePartners360 Links*
 - **Allsec Website** - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - ***Make sure to check your Log-ins to prevent disputes and corrections***
