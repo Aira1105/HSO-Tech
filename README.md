@@ -8,10 +8,10 @@
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
-|Allsec LILO *Important*           | **$${\color{cyan}Local \space Machine}$$** | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
-|OP360 Google Suites               | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  1min/2mins                 | $${\color{orange}Moderate}$$           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
-|Remote Desktop                    | $${\color{cyan}Local \space Machine}$$ | Stand-alone App                           | 3mins/5mins                 | $${\color{red}High}$$                  |                                                             |           
-|Github Repository                 | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
+|Allsec LILO *Important*           | **$${\color{cornflowerblue}Local \space Machine}$$** | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
+|OP360 Google Suites               | $${\color{cornflowerblue}Local \space Machine}$$ | Google Chrome                             |  1min/2mins                 | $${\color{orange}Moderate}$$           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
+|Remote Desktop                    | $${\color{cornflowerblue}Local \space Machine}$$ | Stand-alone App                           | 3mins/5mins                 | $${\color{red}High}$$                  |                                                             |           
+|Github Repository                 | $${\color{cornflowerblue}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
 |Salesforce HS1 Support Console CRM| $${\color{Red}AVD/VMware}$$    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |  [`🔗`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
 |Bomgar Remote                     | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |                                                             |
 |Dentrix-Core Software + Dentrix Ascend             | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
@@ -20,7 +20,7 @@
 |**Total Load Time**                   |                                |                                           |  $${\color{Green}12mins/23mins}$$                     |                                        |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
-### $${\color{Darkslatecyan}OP360 \space Tools}$$
+### $${\color{Darkslatecornflowerblue}OP360 \space Tools}$$
 ###### *Important OfficePartners360 Links*
 - **Allsec Website** - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - ***Make sure to check your Log-ins to prevent disputes and corrections***
 - **OP360 Zoho People** - [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)
