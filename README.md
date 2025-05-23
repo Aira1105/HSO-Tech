@@ -1,7 +1,7 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab.**
 ## **$${\color{Darkslateblue}OP360 \space  Workstations}$$**
 ###### *HSO Device Information*
-| Device        | Processor/Cores/Thread           | Memory           | Storage |
+| Device        | Processor Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
 | 💻 $${\color{cornflowerblue}Local \space Machine}$$ | `I5 11th/12th 6C/12T`              | 16GB Ram         | 256GB   |
 | 📥 $${\color{Red}AVD/VMware}$$    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB Ram          | 128GB   |
