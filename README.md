@@ -17,7 +17,7 @@
 |Dentrix-Core Software             | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
 |Microsoft Outlook                 | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
 |Microsoft Teams                   | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
-|**Total Load Time**                   |                                |                                           |  $${\color{red}12mins/23mins}$$                     |                                        |                                                             |
+|**Total Load Time**                   |                                |                                           |  $${\color{Green}12mins/23mins}$$                     |                                        |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
 ### $${\color{Darkslatecyan}OP360 \space Tools}$$
