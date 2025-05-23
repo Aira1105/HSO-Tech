@@ -71,5 +71,5 @@
 - **Mandatory 8-hour OSH Seminar**
 - Mandatoy 8-hour OSH Seminar Zoho - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
 - Mandatory 8-hour OSH Seminar Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) - $${\color{green}Completed}$$
-- Call-In Procedure
+- **OfficePartners360 Call-In Procedure
 - Call-In Procedure Link - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000254653227/overview)
