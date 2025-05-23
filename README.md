@@ -1,19 +1,19 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab.**
 ###### **Hitchhiker's Guide to the Universe.**
-## **$${\color{Darkslateblue}OP360 \space  Workstations}$$**
+## **$${\color{Darkslatecyan}OP360 \space  Workstations}$$**
 ###### *HSO Device Information*
 | Device        | Processor/Cores/Thread           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
-| $${\color{Blue}Local \space Machine}$$ | `I5 11th/12th 6C/12T`              | 16GB Ram         | 256GB   |
+| $${\color{cyan}Local \space Machine}$$ | `I5 11th/12th 6C/12T`              | 16GB Ram         | 256GB   |
 | VMware/AVD    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB Ram          | 128GB   |
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
 |Allsec LILO *Important*           | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
-|OP360 Google Suites               | $${\color{Blue}Local \space Machine}$$ | Google Chrome                             |  1min/2mins                 | $${\color{orange}Moderate}$$           | [`Link`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
-|Remote Desktop                    | $${\color{Blue}Local \space Machine}$$ | Stand-alone App                           | 3mins/5mins                 | $${\color{red}High}$$                  |                                                             |           
-|Github Repository                 | $${\color{Blue}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://github.com/Aira1105/HSO-Tech)                                                            |
-|OP360 Zoho People                 | $${\color{Blue}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)                                                           |
+|OP360 Google Suites               | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  1min/2mins                 | $${\color{orange}Moderate}$$           | [`Link`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
+|Remote Desktop                    | $${\color{cyan}Local \space Machine}$$ | Stand-alone App                           | 3mins/5mins                 | $${\color{red}High}$$                  |                                                             |           
+|Github Repository                 | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://github.com/Aira1105/HSO-Tech)                                                            |
+|OP360 Zoho People                 | $${\color{cyan}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 | [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)                                                           |
 |Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  | [`Link`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
 |Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |                                                             |
 |Dentrix-Core Software             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
@@ -21,7 +21,7 @@
 |Microsoft Teams                   | AVD/WMware    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
-### $${\color{Darkslateblue}OP360 \space Tools}$$
+### $${\color{Darkslatecyan}OP360 \space Tools}$$
 ###### *Important OfficePartners360 Links*
 - **Allsec Website** - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - ***Make sure to check your Log-ins to prevent disputes and corrections***
 - **OP360 Zoho People** - [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)
