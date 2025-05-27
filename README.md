@@ -38,7 +38,7 @@
 - **AVD Workspace Procedures** - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions%2FAVD%20Workspace%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions)
 - **AVD Remote Desktop Download** [`Link`](https://go.microsoft.com/fwlink/?linkid=2139369) - Install Time <5 mins
 - **Omni Channel Voice Workflow** - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice%2FOmni%20Channel%20Voice%20Workflow%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FOmni%20Channel%2FVoice&p=true&ga=1)
-
+- **HSO QA Support Playbook** - [`Link`](https://docs.google.com/document/d/1cmTKFA1b-XvTU1kqVRTqrc290gVtq9AIVKKDLINA83o/edit?tab=t.0)
 ### **Dentrix Core Tools**
 - **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 - **Quicksnapshot 3 Installation Link** - [`Link`](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
