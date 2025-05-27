@@ -52,6 +52,7 @@
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
 - **HSO Incident Report Guide** - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - **HSO Incident Report Tech Helpdesk Tickets** - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - $${\color{deeppink}All \space Tickets \space Should \space Be \space \ Reported}$$
+- **HSO Helpdesk Portal** - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
 ### **HSO Training Links and Courses**
 ###### **Refresh Skilljar page for errors when opening a new tab.**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** - [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
