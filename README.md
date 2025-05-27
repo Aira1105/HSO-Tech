@@ -36,7 +36,7 @@
 - **Salesforce Case Dispositioning** - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians%2FSalesforce%20Case%20Dispositioning%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians)
 - **CXone My Zone for Support Agents** - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone%2FCXone%20My%20Zone%20for%20Support%20Agents%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FCXone)
 - **AVD Workspace Procedures** - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions%2FAVD%20Workspace%20Process%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FTraining%2FWork%20Instructions)
-- **AVD Remote Desktop Download** [`Link](https://go.microsoft.com/fwlink/?linkid=2139369)
+- **AVD Remote Desktop Download** [`Link`](https://go.microsoft.com/fwlink/?linkid=2139369) - Install Time <5 mins
 
 ### **Dentrix Core Tools**
 - **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
