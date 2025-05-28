@@ -54,12 +54,13 @@
 - **Dentrix Ascend Cheatsheets** - [`Link`](https://drive.google.com/file/d/1RAkCN4_uDPdICsEtWDE6iVRk8KvzRvff/view?usp=sharing)
 - **Dentrix Ascend System Requirements** - [`Link`](https://docs.google.com/document/d/1VgDWLoK9iFchAKahQ-vQIWy9MVDn5pGI/edit)
 - **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
-### **HSO Support Tools**
+### **HSO Team Leads Support Tools**
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
 - **HSO Incident Report Guide** - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
 - **HSO Incident Report Tech Helpdesk Tickets** - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - $${\color{deeppink}All \space Tickets \space Should \space Be \space \ Reported}$$
 - **HSO Helpdesk Portal** - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
 - **HSO Roster File For Attendance** - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
+- **HSO Tech Docs and Data File** - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
 ### **HSO Training Links and Courses**
 ###### **Refresh Skilljar page for errors when opening a new tab.**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** - [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
