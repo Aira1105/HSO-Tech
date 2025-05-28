@@ -1,4 +1,6 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab.**
+###### **Updates**
+
 ## **$${\color{Darkslateblue}OP360 \space  Workstations}$$**
 ###### *HSO Device Information*
 | Device        | Processor Cores/Threads           | Memory           | Storage |
