@@ -1,6 +1,6 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab.**
-###### **Updates**
-###### - Added Notes for TCD - Dentrix Core
+####### **Updates**
+####### - Added Notes for TCD - Dentrix Core
 
 ## **$${\color{Darkslateblue}OP360 \space  Workstations}$$**
 ###### *HSO Device Information*
