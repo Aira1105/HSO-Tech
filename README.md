@@ -47,13 +47,6 @@
 - **Quicksnapshot 3 Installation Link** - [`Link`](https://drive.google.com/file/d/1hU_WHQWeoz5O4lQdkv_SJ08VrryfKPvy/view?usp=drive_link)  *Install time - 10 Sec*
 - **Dentrix Installation** - [`Link`](https://henryschein1-my.sharepoint.com/:u:/g/personal/cylvon_drake_henryscheinone_com/EYH_67Ecsz5JhIaZke5FTlwB4O5BXIVEUI91VUIQU0I33w?e=cRzuRL) - *Install Time: >20 Minutes*
 - **Dentrix Installation Back-up** - [`Link`](https://drive.google.com/file/d/1juZcJBprVLatppJvkCdk1nDdD78ZC5nV/view?usp=drive_link) - *Install Time: >20 Minutes*
-### **Dentrix Ascend Tools**
-- **Dentrix Ascend Live** - [`Link`](https://live.dentrixascend.com/login)
-- **Dentrix Ascend Sandbox/Training** - [`Link`](https://beta.gryphondds.com/pm#/dashboard)
-- **Dentrix Ascend Academy - Mastery** - [`Link`](https://learn.dentrixacsend.com/)
-- **Dentrix Ascend Cheatsheets** - [`Link`](https://drive.google.com/file/d/1RAkCN4_uDPdICsEtWDE6iVRk8KvzRvff/view?usp=sharing)
-- **Dentrix Ascend System Requirements** - [`Link`](https://docs.google.com/document/d/1VgDWLoK9iFchAKahQ-vQIWy9MVDn5pGI/edit)
-- **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
 ### **HSO Team Leads Support Tools**
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
 - **HSO Incident Report Guide** - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
