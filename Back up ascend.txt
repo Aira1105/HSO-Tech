@@ -5,3 +5,4 @@
 - **Dentrix Ascend Cheatsheets** - [`Link`](https://drive.google.com/file/d/1RAkCN4_uDPdICsEtWDE6iVRk8KvzRvff/view?usp=sharing)
 - **Dentrix Ascend System Requirements** - [`Link`](https://docs.google.com/document/d/1VgDWLoK9iFchAKahQ-vQIWy9MVDn5pGI/edit)
 - **Bomgar Installation link** - [`Link`](https://drive.google.com/file/d/1NnUVNIHMLOhLwGQrGc3UY6U5R20QgRog/view?usp=drive_link) *Install time - 5-6mins*
+- **Training - Skilljar - Dentrix Ascend New Hire VILT** - [`Link`](https://hso.skilljar.com/dentrix-ascend-new-hire-vilt/152775)
