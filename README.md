@@ -54,6 +54,7 @@
 - **HSO Helpdesk Portal** - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
 - **HSO Roster File For Attendance** - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
 - **HSO Tech Docs and Data File** - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
+- **HSO SOPs and Work Instructions for Support Technicians** - [`Link`](https://henryschein1.sharepoint.com/sites/CustomerServicesSOPs/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=5xId1p&sw=auth&CID=00165073%2D7408%2D407e%2D81a1%2D7f5bf471420b&FolderCTID=0x0120009251DBC29F5E7D4797D7BC336BE33705&id=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians%2FSOPs%20and%20Work%20Instructions%20for%20Support%20Technicians%2Epdf&parent=%2Fsites%2FCustomerServicesSOPs%2FShared%20Documents%2FSupport%20Technicians)
 ### **HSO Training Links and Courses**
 ###### **Refresh Skilljar page for errors when opening a new tab.**
 - **Training - Skilljar - Technical Support : New Hire Onboarding** - [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
